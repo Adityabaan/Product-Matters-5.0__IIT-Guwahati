@@ -27,13 +27,13 @@ The curriculum covers everything from product sense, user research, MVP, metrics
 ---
 
 ## Repository Structure 🗂️
+```
 ├── Week1_Assignment/
 ├── Week2_Assignment/
 ├── Week3_Assignment/
 ├── Week4_Assignment/
 └── Capstone_Project/
-
-
+```
 - Each folder contains detailed solutions, documentation, and supporting files for that week.
 - The capstone folder includes the final project integrating all learned concepts.
 
