@@ -2,7 +2,7 @@
 
 Welcome to the **Product Matters 5.0** 🎯 bootcamp solutions repository! This repo contains complete and detailed solutions for all 4 weekly assignments and the grand capstone project 🏆 from the highly acclaimed Product Management bootcamp organized by **E-Cell, IIT Guwahati**.  
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/Product-Matters-5.0__IIT-Guwahati/blob/4caa0f2bcadda3c4c6f81bc827573c6a342f3c5e/images2.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Image Alt](https://github.com/Adityabaan/Product-Matters-5.0__IIT-Guwahati/blob/4caa0f2bcadda3c4c6f81bc827573c6a342f3c5e/images.png)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/Product-Matters-5.0__IIT-Guwahati/blob/4caa0f2bcadda3c4c6f81bc827573c6a342f3c5e/images2.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Image Alt](https://github.com/Adityabaan/Product-Matters-5.0__IIT-Guwahati/blob/4caa0f2bcadda3c4c6f81bc827573c6a342f3c5e/images.png)
 
 ---
 
